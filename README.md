@@ -6,7 +6,7 @@
   - Membuat halaman Web Modern: bagian Top Section
   - Membuat halaman Web Modern: bagian Header Section
   - Membuat halaman Web Modern: bagian Content Section (Daftar Belajar)
-  - Membuat halaman Web Modern: bagian Content Section (pesan)
+  - Membuat halaman Web Modern: bagian Content Section (Form Pemesanan)
   - Membuat halaman Web Modern: bagian Footer Section
   - Merapikan / Menyelaraskan halaman Web Modern: bagian Header Section
 - Demo file: https://labsan.github.io/progate.github.io-htmlCssStudy2/index.html
