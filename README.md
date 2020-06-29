@@ -1,3 +1,12 @@
 # progate.github.io-htmlCssStudy2
 - Hasil belajar dari situs Progate di kelas "HTML & CSS Study 2"
+- Pada kelas "HTML & CSS Study 2", kita akan belajar secara bertahap dalam membuat halaman web modern menggunakan HTML & CSS secara mendalam
+- Materi yang akan diajarkan dalam kelas tersebut seperti:
+  - Pengenalan Layout Dasar pada halaman Web Modern
+  - Membuat halaman Web Modern: bagian Top Section
+  - Membuat halaman Web Modern: bagian Header Section
+  - Membuat halaman Web Modern: bagian Content Section (Daftar Belajar)
+  - Membuat halaman Web Modern: bagian Content Section (pesan)
+  - Membuat halaman Web Modern: bagian Footer Section
+  - Merapikan / Menyelaraskan halaman Web Modern: bagian Header Section
 - Demo file: https://labsan.github.io/progate.github.io-htmlCssStudy2/index.html
